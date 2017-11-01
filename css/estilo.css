@@ -42,7 +42,13 @@ h3, h5{
 	font-size: 15px;
 }
 
-
+h6{
+	color:#000000;
+	margin:0.25em auto;
+	text-align:left;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	font-size: 15px;
+}
 header{
 	background: #cccccc;
 	border:000000;
@@ -101,7 +107,7 @@ section #INICIO{
 	margin: 0.5em auto;
 	max-width: 960px;
 	padding: 0.25em;
-	height: 1270px;
+	height: 1200px;
 	text-align: center;
 	font-size: 2em;
 }
@@ -113,7 +119,7 @@ section #INFORMACIONINICIAL, aside{
 	border-radius: 0.5em;
 	margin: 0.5em auto;
 	max-width: 960px;
-	height: 1270px;
+	height: 1200px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 2em;
@@ -131,8 +137,31 @@ section #cocepto1{
 	font-size: 2em;
 }
 
+section #NORMATIVIDAD, aside{
+	background: #6fa8dc;
+	border:000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	height: 1270px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 2em;
+}
 
 section #Informaciondeconcepto, aside{
+	background: #6fa8dc;
+	border:000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	height: 1270px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 2em;
+}
+
+section #Informacionormatividad, aside{
 	background: #6fa8dc;
 	border:000000;
 	border-radius: 0.5em;
@@ -171,12 +200,11 @@ section #SECCION6{
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 700px;
-	height: 179px;
+	max-width: 900px;
+	height: 95px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 20px;
-	float: left;
 	text-align:center;
 	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
 	color:#00FF00;	
@@ -188,12 +216,57 @@ section #SECCION7{
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 700px;
+	max-width: 900px;
 	height: 179px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 20px;
-	float: left;
+	text-align:center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	color:#00FF00;	
+	margin-left: 25px;
+}
+section #SECCION10{
+	background: #ffffff;
+	border:#000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 900px;
+	height: 179px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 20px;
+	text-align:center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	color:#00FF00;	
+	margin-left: 25px;
+}
+
+section #SECCION11{
+	background: #ffffff;
+	border:#000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 900px;
+	height: 450px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 20px;
+	text-align:center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	color:#00FF00;	
+	margin-left: 25px;
+}
+section #SECCION9{
+	background: #ffffff;
+	border:#000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	width: 900px;
+	max-height: 150px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 20px;
 	text-align:center;
 	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
 	color:#00FF00;	
@@ -201,33 +274,32 @@ section #SECCION7{
 }
 
 section #SECCION8{
-	background: #ffffff;
+	background: #6fa8dc;
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 700px;
-	height: 179px;
+	max-width: 900px;
+	height: 195px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 20px;
-	float: left;
 	text-align:center;
 	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
 	color:#00FF00;	
 	margin-left: 25px;
+
 }
 
-section #SECCION9{
-	background: #ffffff;
+section #SECCION10{
+	background: #6fa8dc;
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 700px;
-	height: 179px;
+	max-width: 900px;
+	height: 200px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 20px;
-	float: left;
 	text-align:center;
 	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
 	color:#00FF00;	
