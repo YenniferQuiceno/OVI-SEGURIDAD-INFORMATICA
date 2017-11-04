@@ -158,17 +158,16 @@ img #SC1{
 }
 
 section #INICIO{
-	background: #black;
+	background: #6fa8dc;
 	border:000000;
 	border-radius: 0.5em;
-	margin: 0.1em auto;
-	width: 1000px;
+	margin: 0.5em auto;
+	max-width: 500px;
+	height: 900px;
 	padding: 0.25em;
-	height: 800px;
 	text-align: center;
 	font-size: 2em;
-	
-	
+	margin-left: 150px;
 }
 
 
@@ -176,14 +175,14 @@ section #INFORMACIONINICIAL{
 	background: #6fa8dc;
 	border:000000;
 	border-radius: 0.5em;
-	margin: 0.1em auto;
-	width: 500px;
-	height: 1100px;
+	margin: 0.6em auto;
+	width: 600px;
+	height: 900px;
 	padding: 0.1em;
 	text-align: center;
 	font-size: 2em;
+	margin-left: 200px;
 	float: left;
-
 }
 
 section #cocepto1{
@@ -206,6 +205,30 @@ section #NORMATIVIDAD, aside{
 	margin: 0.5em auto;
 	max-width: 960px;
 	height: 1350px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 2em;
+}
+
+section #Actividad, aside{
+	background: #6fa8dc;
+	border:000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	height: 1200px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 2em;
+}
+
+section #ActividadInformacion, aside{
+	background: #6fa8dc;
+	border:000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 960px;
+	height: 1200px;
 	padding: 0.25em;
 	text-align: center;
 	font-size: 2em;
@@ -258,7 +281,7 @@ section #Informacionormatividad, aside{
 }
 
 section #IMAGENSC1{
-
+	margin-left: 0.25em;
 	float: left;
 }
 
@@ -267,7 +290,7 @@ section #SECCION1{
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 200px;
+	max-width: 300px;
 	height: 179px;
 	padding: 0.25em;
 	text-align: center;
@@ -373,19 +396,7 @@ section #SECCION16{
 	margin-left: 25px;
 }
 section #SECCION17{
-	background: #ffffff;
-	border:#000000;
-	border-radius: 0.5em;
-	margin: 0.5em auto;
-	max-width: 900px;
-	height: 350px;
-	padding: 0.25em;
-	text-align: center;
-	font-size: 20px;
-	text-align:center;
-	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
-	color:#00FF00;	
-	margin-left: 25px;
+	
 }
 section #SECCION18{
 	background: #ffffff;
@@ -467,7 +478,7 @@ section #SECCION10{
 }
 
 section #IMAGENSC2{
-	margin: 0.5em auto;
+	margin: 0.5em;
 	float: left;
 }
 
@@ -476,7 +487,7 @@ section #SECCION2{
 	border:#000000;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
-	max-width: 200px;
+	max-width: 300px;
 	height: 179px;
 	padding: 0.25em;
 	text-align: center;
@@ -491,7 +502,8 @@ section #SECCION2{
 aside{
 	
 	padding: 0.25em;
-
+	height: 900px;
 	width: 300px;
+	margin-left: 850px;
 	}
 
