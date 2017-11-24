@@ -396,7 +396,19 @@ section #SECCION16{
 	margin-left: 25px;
 }
 section #SECCION17{
-	
+	background: #ffffff;
+	border:#000000;
+	border-radius: 0.5em;
+	margin: 0.5em auto;
+	max-width: 900px;
+	height: 350px;
+	padding: 0.25em;
+	text-align: center;
+	font-size: 20px;
+	text-align:center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	color:#00FF00;	
+	margin-left: 25px;
 }
 section #SECCION18{
 	background: #ffffff;
